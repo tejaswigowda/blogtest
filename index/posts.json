@@ -1,5 +1,16 @@
 {
   "version": 1,
   "generator": "blog-webcli",
-  "posts": []
+  "posts": [
+    {
+      "slug": "first-post",
+      "title": "first post",
+      "date": "2026-11-05",
+      "tags": [],
+      "excerpt": "testing this blog",
+      "cover": null,
+      "words": 3,
+      "status": "published"
+    }
+  ]
 }
