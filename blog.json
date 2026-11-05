@@ -1,0 +1,15 @@
+{
+  "title": "Blogtest",
+  "description": "testing",
+  "author": "tejaswigowda",
+  "domain": "https://tejaswigowda.github.io/blogtest",
+  "repo": "tejaswigowda/blogtest",
+  "theme": "default",
+  "video": {
+    "player": "https://strataeditor.dev/player/",
+    "base": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{tag}/{slug}/",
+    "repos": {
+      "videos": "tejaswigowda/blogtestvideo"
+    }
+  }
+}
