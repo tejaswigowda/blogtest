@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "generator": {
+    "name": "blog-webcli",
+    "licence": "GPL-3.0-only"
+  },
+  "blog": {
+    "title": "Blogtest",
+    "author": "tejaswigowda"
+  },
+  "dependencies": [
+    {
+      "kind": "theme",
+      "name": "Terminal",
+      "version": "1.0.0",
+      "licence": "MIT",
+      "repo": "tejaswigowda/blog-webCLI-themes/terminal",
+      "ref": "v1.0.0",
+      "sha256": "67f30fc36b794c05ee2fe51dc1ad145931288fe578a0a57de4a3a5bfa199be6f",
+      "contract": "blog-webcli-v1"
+    }
+  ]
+}
