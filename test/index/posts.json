@@ -1,5 +1,16 @@
 {
   "version": 1,
   "generator": "blog-webcli",
-  "posts": []
+  "posts": [
+    {
+      "slug": "test-1",
+      "title": "test-1",
+      "date": "2026-11-06",
+      "tags": [],
+      "excerpt": "",
+      "cover": null,
+      "words": 0,
+      "status": "published"
+    }
+  ]
 }

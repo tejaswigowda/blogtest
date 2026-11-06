@@ -2,7 +2,7 @@
   "version": 1,
   "generator": {
     "name": "blog-webcli",
-    "licence": "MIT"
+    "licence": "GPL-3.0-only"
   },
   "blog": {
     "title": "Test bloging",
