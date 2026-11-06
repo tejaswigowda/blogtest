@@ -4,7 +4,15 @@
   "author": "tejaswigowda",
   "domain": "https://tejaswigowda.github.io/blogtest/test",
   "repo": "tejaswigowda/blogtest/test",
-  "theme": "default",
+  "theme": {
+    "repo": "tejaswigowda/blog-webCLI-themes/wp/twentytwentyone",
+    "ref": "v1.0.0",
+    "sha256": "c758e9dc5dee7ebfaec913f081c513e6240a6be8e039e0a82fd53cbebc0b72f1",
+    "name": "Twenty Twenty-One",
+    "version": "2.9",
+    "licence": "GPL-2.0-or-later",
+    "contract": "wordpress-classic"
+  },
   "extensions": [
     {
       "repo": "tejaswigowda/blog-webCLI-extensions/image-captions",
