@@ -1,0 +1,119 @@
+{
+  "version": 2,
+  "scene": {
+    "repo": "tejaswigowda/blogtest",
+    "file": "harbour-walk.mp4",
+    "branch": "main",
+    "commit": null,
+    "hash": "sha256:a4449b8d658f7309ea66ab7bc87df904cd295c29cafd5bf2a340004f7543a63e"
+  },
+  "render": {
+    "mode": "offline",
+    "determinism": {
+      "frames": false,
+      "bytes": false,
+      "reasons": {
+        "frames": [
+          "the time-source audit did not pass",
+          "no per-frame hashes were made, so the claim cannot be checked",
+          "not verified: the shuffled-order test was not run (set Verify to all frames)"
+        ],
+        "bytes": [
+          "a hardware encoder was chosen: its bytes are not promised to repeat (a choice; the frames are unaffected)",
+          "the frames are not established as deterministic"
+        ]
+      },
+      "verification": null
+    },
+    "encoder": {
+      "kind": "hardware",
+      "name": "uploaded avc1 video (harbour-walk.mp4)",
+      "version": null,
+      "settings_hash": null,
+      "threads": null,
+      "config": null,
+      "stage": "master"
+    },
+    "renderer": "upload",
+    "device": "webcodecs",
+    "fps": 30,
+    "frames": 120,
+    "frame_range": [
+      0,
+      119
+    ],
+    "duration_s": 4,
+    "width": 640,
+    "height": 360,
+    "seed": null,
+    "exporter": "strata-export/1.2.0",
+    "rendered_at": "2026-11-06T02:50:14.426Z",
+    "time_source_audit": {
+      "document": "guides/TIME_SOURCES.md",
+      "passed": false,
+      "confirmed": [],
+      "live_when_present": []
+    }
+  },
+  "outputs": {
+    "master": "master.m3u8",
+    "renditions": [
+      {
+        "name": "360p30",
+        "width": 640,
+        "height": 360,
+        "bitrate_kbps": 506,
+        "playlist": "360p30/index.m3u8",
+        "segments": 1,
+        "max_segment_bytes": 262220,
+        "encoder": {
+          "kind": "hardware",
+          "name": "WebCodecs VideoEncoder (H.264)",
+          "version": "Chromium 150",
+          "settings_hash": "sha256:3dbb7180a8fd3e744bd4640974e1db5229a300c2b8761ea9265e157c6b7a84de",
+          "threads": null,
+          "config": {
+            "codec": "avc1.64001f",
+            "width": 640,
+            "height": 360,
+            "bitrate": 506000,
+            "framerate": 30,
+            "avc": {
+              "format": "avc"
+            },
+            "latencyMode": "quality",
+            "hardwareAcceleration": "no-preference",
+            "keyEvery": 60
+          },
+          "stage": "ladder",
+          "input": "master"
+        }
+      }
+    ],
+    "poster": "poster.jpg",
+    "captions": null,
+    "caption_tracks": [],
+    "manifest": {
+      "path": "files.sha256",
+      "algorithm": "sha256"
+    },
+    "audio": null,
+    "audio_present": false,
+    "audio_absence": "The audio track of the uploaded video was dropped at packaging."
+  },
+  "checks": {
+    "segments_under_20mb": true,
+    "files_under_100mb": true,
+    "frame_count_matches_duration": true,
+    "encoder_recorded_per_rendition": true,
+    "master_matches_audio": true
+  },
+  "publication": {
+    "storage": "renders-repo",
+    "repo": "tejaswigowda/blogtest",
+    "path": "harbour-walk",
+    "tag": "harbour-walk/v1",
+    "url": "https://cdn.jsdelivr.net/gh/tejaswigowda/blogtest@harbour-walk/v1/harbour-walk/",
+    "size_bytes": 283972
+  }
+}
