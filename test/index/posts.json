@@ -3,6 +3,16 @@
   "generator": "blog-webcli",
   "posts": [
     {
+      "slug": "a-b-cubed",
+      "title": "a+b cubed",
+      "date": "2026-11-06",
+      "tags": [],
+      "excerpt": "test of lyceum",
+      "cover": null,
+      "words": 3,
+      "status": "published"
+    },
+    {
       "slug": "test-1",
       "title": "test-1",
       "date": "2026-11-06",
