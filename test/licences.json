@@ -217,19 +217,6 @@
           "style.css.map"
         ]
       }
-    },
-    {
-      "kind": "extension",
-      "name": "Image captions",
-      "version": "1.0.0",
-      "licence": "MIT",
-      "repo": "tejaswigowda/blog-webCLI-extensions/image-captions",
-      "ref": "v1.0.0",
-      "sha256": "7895246d95ba945bdc7740e35301dff1d33c83554fce4727dbf08122ce4d9487",
-      "extensionKind": "build",
-      "hooks": [
-        "post:html"
-      ]
     }
   ]
 }
