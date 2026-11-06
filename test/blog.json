@@ -2,7 +2,7 @@
   "title": "Test bloging",
   "description": "tesing the blog webCLI",
   "author": "tejaswigowda",
-  "domain": "https://tejaswigowda.github.io/blogtest/test",
+  "domain": "http://tejaswigowda.com/blogtest/test",
   "repo": "tejaswigowda/blogtest/test",
   "theme": {
     "repo": "tejaswigowda/blog-webCLI-themes/wp/twentytwentyone",

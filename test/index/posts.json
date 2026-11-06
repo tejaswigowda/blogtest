@@ -1,6 +1,14 @@
 {
-  "version": 1,
+  "version": 2,
   "generator": "blog-webcli",
+  "order": {
+    "by": "date",
+    "dir": "desc"
+  },
+  "sequence": [
+    "a-b-cubed",
+    "test-1"
+  ],
   "posts": [
     {
       "slug": "a-b-cubed",
@@ -10,7 +18,8 @@
       "excerpt": "test of lyceum",
       "cover": null,
       "words": 3,
-      "status": "published"
+      "status": "published",
+      "author": "tejaswigowda"
     },
     {
       "slug": "test-1",
@@ -20,7 +29,8 @@
       "excerpt": "",
       "cover": null,
       "words": 0,
-      "status": "published"
+      "status": "published",
+      "author": "tejaswigowda"
     }
   ]
 }
