@@ -1,6 +1,14 @@
 {
-  "version": 1,
+  "version": 2,
   "generator": "blog-webcli",
+  "generatorId": "blog-webcli@0.5.0",
+  "order": {
+    "by": "date",
+    "dir": "desc"
+  },
+  "sequence": [
+    "first-post"
+  ],
   "posts": [
     {
       "slug": "first-post",
@@ -10,7 +18,8 @@
       "excerpt": "testing this blog",
       "cover": null,
       "words": 3,
-      "status": "published"
+      "status": "published",
+      "author": "tejaswigowda"
     }
   ]
 }
