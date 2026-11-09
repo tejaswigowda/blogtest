@@ -5,12 +5,12 @@
   "domain": "http://tejaswigowda.com/blogtest/test",
   "repo": "tejaswigowda/blogtest/test",
   "theme": {
-    "repo": "tejaswigowda/blog-webCLI-themes/wp/basin",
-    "ref": "v1.5.0",
-    "sha256": "9c2b21c1a352c3e73df614010efdacb5f4adbdbb7895d75379d5e8aead6e288d",
-    "name": "Basin",
-    "version": "1.0.6",
-    "licence": "GPL-3.0-only",
-    "contract": "wordpress-classic"
+    "repo": "tejaswigowda/blog-webCLI-themes/terminal",
+    "ref": "v1.6.0",
+    "sha256": "67f30fc36b794c05ee2fe51dc1ad145931288fe578a0a57de4a3a5bfa199be6f",
+    "name": "Terminal",
+    "version": "1.0.0",
+    "licence": "MIT",
+    "contract": "blog-webcli-v1"
   }
 }
