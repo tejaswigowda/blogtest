@@ -12,5 +12,19 @@
     "version": "1.0.0",
     "licence": "MIT",
     "contract": "blog-webcli-v1"
+  },
+  "customize": {
+    "colors": {
+      "accent": "#159e63",
+      "text": "#212529",
+      "background": "#fafaf9",
+      "muted": "#787a7c"
+    },
+    "font": "sans",
+    "width": "600px",
+    "fontSize": "18px",
+    "list": {
+      "layout": "list"
+    }
   }
 }
