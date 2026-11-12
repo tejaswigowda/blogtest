@@ -26,7 +26,8 @@
     <published>2026-11-06T00:00:00Z</published>
     <updated>2026-11-06T00:00:00Z</updated>
     <author><name>tejaswigowda</name></author>
-    <summary></summary>
-    <content type="html">&lt;figure class=&quot;video&quot;&gt;&lt;iframe src=&quot;https://strataeditor.dev/player/#https://cdn.jsdelivr.net/gh/tejaswigowda/blogtest@harbour-walk/v1/videos/harbour-walk/&amp;amp;present=true&quot; title=&quot;Video: harbour-walk v1&quot; loading=&quot;lazy&quot; allow=&quot;fullscreen&quot; sandbox=&quot;allow-scripts&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;/iframe&gt;&lt;figcaption&gt;&lt;a href=&quot;https://strataeditor.dev/player/#https://cdn.jsdelivr.net/gh/tejaswigowda/blogtest@harbour-walk/v1/videos/harbour-walk/&amp;amp;present=true&quot; rel=&quot;noopener noreferrer&quot;&gt;Watch: harbour-walk v1&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;</content>
+    <summary>testing now!</summary>
+    <content type="html">&lt;p&gt;testing now!&lt;/p&gt;
+&lt;figure class=&quot;video&quot;&gt;&lt;iframe src=&quot;https://strataeditor.dev/player/#https://cdn.jsdelivr.net/gh/tejaswigowda/blogtest@harbour-walk/v1/videos/harbour-walk/&amp;amp;present=true&quot; title=&quot;Video: harbour-walk v1&quot; loading=&quot;lazy&quot; allow=&quot;fullscreen&quot; sandbox=&quot;allow-scripts&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;/iframe&gt;&lt;figcaption&gt;&lt;a href=&quot;https://strataeditor.dev/player/#https://cdn.jsdelivr.net/gh/tejaswigowda/blogtest@harbour-walk/v1/videos/harbour-walk/&amp;amp;present=true&quot; rel=&quot;noopener noreferrer&quot;&gt;Watch: harbour-walk v1&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;</content>
   </entry>
 </feed>
