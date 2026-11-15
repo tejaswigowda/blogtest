@@ -20,10 +20,10 @@
       "background": "#ffffff",
       "muted": "#68747b",
       "dark": {
-        "accent": "#82c7df",
-        "text": "#f2f6f8",
-        "background": "#151b1f",
-        "muted": "#b7c4c9"
+        "accent": "#9fd5e6",
+        "text": "#25292c",
+        "background": "#ffffff",
+        "muted": "#68747b"
       }
     },
     "font": "sans",
