@@ -11,13 +11,13 @@ description: Our Products We construct custom fit swim-platforms to be installed
 
 We construct custom fit swim-platforms to be installed to the transom or the stern deck of a water vessel. Our platforms are made to order in the US and can be shipped internationally.
 
-[View All Products](../products/)
+[View All Products](https://tejaswigowda.github.io/blogtest/products/)
 
 ## Custom Builds
 
 We custom-build any style swim platform to meet the specific dimensions of your boat. We also offer a wide variety of customization services, accessories, storage options, and custom ladder pocket placements, available upon request.
 
-[Previous Custom Builds](../testimonials/)
+[Previous Custom Builds](https://tejaswigowda.github.io/blogtest/testimonials/)
 
 ![swim-platform_custom-builds-featured](https://swim-platform.com/wp-content/uploads/2021/07/swim-platform_custom-builds-featured-1024x765.jpg)
 
@@ -39,4 +39,4 @@ Our platforms are built-to-order fiberglass decks reinforced with structural mar
 
 Please fill out our quote form regarding the product you wish to learn about and we will get back to you as soon as we can.
 
-[Request Quote](../request-a-quote/)
+[Request Quote](https://tejaswigowda.github.io/blogtest/request-a-quote/)
