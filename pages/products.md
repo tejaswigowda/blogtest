@@ -5,7 +5,7 @@ status: published
 description: Swim Platforms We construct custom fitted swim platforms to be installed to the transom or the stern deck of a water vessel. Our platforms are made to order in the US and can be shipped internationally. Accessories Below is a list of swim-platform/boating accessories. Accessories may be purchased…
 ---
 
-![Custom Cruiser_Swim Platform_Formula 400_3](https://swim-platform.com/wp-content/uploads/2021/07/Custom-Cruiser_Swim-Platform_Formula-400_3.jpg)
+![Custom Cruiser_Swim Platform_Formula 400_3](asset:images/wp/2021/07/Custom-Cruiser_Swim-Platform_Formula-400_3.jpg)
 
 ## Swim Platforms
 
@@ -23,19 +23,19 @@ Below is a list of swim-platform/boating accessories. Accessories may be purchas
 - Molding
 - Swim Handrails
 
-![Swim Platform Boating Accessory (Swim Handrails)](https://swim-platform.com/wp-content/uploads/2021/07/swim-platform_boating-accessories_hand-rail.jpg)
+![Swim Platform Boating Accessory (Swim Handrails)](asset:images/wp/2021/07/swim-platform_boating-accessories_hand-rail.jpg)
 
 Swim Handrails
 
-![Swim Platform Boating Accessory (Swim Ladder)](https://swim-platform.com/wp-content/uploads/2021/07/swim-platform_boating-accessories_swim-ladder.jpg)
+![Swim Platform Boating Accessory (Swim Ladder)](asset:images/wp/2021/07/swim-platform_boating-accessories_swim-ladder.jpg)
 
 Swim Ladder
 
-![Swim Platform Boating Accessory (Storage Area & Moldings)](https://swim-platform.com/wp-content/uploads/2021/07/swim-platform_boating-accessories_storage-area.jpg)
+![Swim Platform Boating Accessory (Storage Area & Moldings)](asset:images/wp/2021/07/swim-platform_boating-accessories_storage-area.jpg)
 
 Storage Area & Moldings
 
-![Swim Platform Boating Accessory (Custom Lighting)](https://swim-platform.com/wp-content/uploads/2021/07/swim-platform_boating-accessories_custom-lighting.jpg)
+![Swim Platform Boating Accessory (Custom Lighting)](asset:images/wp/2021/07/swim-platform_boating-accessories_custom-lighting.jpg)
 
 Custom Lighting
 

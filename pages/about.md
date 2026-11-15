@@ -5,7 +5,7 @@ status: published
 description: About Swim Platform Swim-Platform.com began in 2004 as a sister company to Salt River Marine Inc., a former marine repair facility in Phoenix, Arizona. While Salt River Marine Inc. had to formally close its doors in 2016, Swim-Platform.com continues to build and satisfy customers. Our Services…
 ---
 
-![swim-platform_about-us](https://swim-platform.com/wp-content/uploads/2021/07/swim-platform_about-us.jpg)
+![swim-platform_about-us](asset:images/wp/2021/07/swim-platform_about-us.jpg)
 
 ## About Swim Platform
 
@@ -15,7 +15,7 @@ Swim-Platform.com began in 2004 as a sister company to Salt River Marine Inc., a
 
 While the primary focus is building custom swim platforms for almost every make and model of boat less than 60’, we offer maintenance as well as installation of swim platforms.
 
-![swim-platform_our-services](https://swim-platform.com/wp-content/uploads/2021/07/swim-platform_our-services.jpg)
+![swim-platform_our-services](asset:images/wp/2021/07/swim-platform_our-services.jpg)
 
 ## Why Swim-Platform?
 
