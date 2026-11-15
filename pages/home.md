@@ -6,17 +6,17 @@ description: Our Products We construct custom fit swim-platforms to be installed
 ---
 
 <section class="webcli-slideshow" aria-label="Slideshow">
-<figure class="webcli-slide webcli-animate-fadeIn">
-<img src="asset:images/wp/2021/07/swim-platform_custom-built-boat-platforms_hero-b.jpg" alt="Custom swim platform fitted to the stern of a boat">
-<figcaption><h2>Custom Swim Platforms</h2><p>Built for your boat, with custom storage and ladder options for easier access to the water.</p><a href="https://tejaswigowda.github.io/blogtest/products/">Shop Our Platforms</a></figcaption>
+<figure class="webcli-slide webcli-animate-none">
+<img class="webcli-animate-fadeIn" src="asset:images/wp/2021/07/swim-platform_custom-built-boat-platforms_hero-b.jpg" alt="Custom swim platform fitted to the stern of a boat">
+<figcaption><h2 class="webcli-animate-fadeInDown">Custom Swim Platforms</h2><p class="webcli-animate-fadeInUp">Built for your boat, with custom storage and ladder options for easier access to the water.</p><a class="webcli-animate-fadeInUp" href="/blogtest/products/">Shop Our Platforms</a></figcaption>
 </figure>
-<figure class="webcli-slide webcli-animate-fadeIn">
-<img src="asset:images/wp/2021/07/swim-platform_customer-reviews_hero-b.jpg" alt="Boat with a custom swim platform on the water">
-<figcaption><h2>Customer Reviews</h2><p>Explore feedback and custom builds from our boating customers.</p><a href="https://tejaswigowda.github.io/blogtest/testimonials/">Testimonials</a></figcaption>
+<figure class="webcli-slide webcli-animate-none">
+<img class="webcli-animate-fadeIn" src="asset:images/wp/2021/07/swim-platform_customer-reviews_hero-b.jpg" alt="Boat with a custom swim platform on the water">
+<figcaption><h2 class="webcli-animate-fadeInDown">Customer Reviews</h2><p class="webcli-animate-fadeInUp">Explore feedback and custom builds from our boating customers.</p><a class="webcli-animate-fadeInUp" href="/blogtest/testimonials/">Testimonials</a></figcaption>
 </figure>
-<figure class="webcli-slide webcli-animate-fadeIn">
-<img src="asset:images/wp/2021/07/swim-platform_faq-frequently-asked-questions_hero.jpg" alt="Swim platform extending from the back of a boat">
-<figcaption><h2>FAQ’s</h2><p>Find answers about platform design, installation and ordering.</p><a href="https://tejaswigowda.github.io/blogtest/faq/">See FAQ</a></figcaption>
+<figure class="webcli-slide webcli-animate-none">
+<img class="webcli-animate-fadeIn" src="asset:images/wp/2021/07/swim-platform_faq-frequently-asked-questions_hero.jpg" alt="Swim platform extending from the back of a boat">
+<figcaption><h2 class="webcli-animate-fadeInDown">FAQ’s</h2><p class="webcli-animate-fadeInUp">Find answers about platform design, installation and ordering.</p><a class="webcli-animate-fadeInUp" href="/blogtest/faq/">See FAQ</a></figcaption>
 </figure>
 </section>
 
