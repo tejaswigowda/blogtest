@@ -43,7 +43,7 @@ Custom Lighting
 
 ### Step 1
 
-Upon submission of our [**quote form**](../request-a-quote/), you will receive a response within 3-4 business days with more information to proceed with the order.
+Upon submission of our [**quote form**](https://tejaswigowda.github.io/blogtest/request-a-quote/), you will receive a response within 3-4 business days with more information to proceed with the order.
 
 ### Step 2
 

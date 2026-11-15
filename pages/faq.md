@@ -111,4 +111,4 @@ How do I fix any knicks or scratches?
 
 We recommend contacting a local fiberglass specialist for repairs or professional finishing.
 
-Please [contact us](../contact/) if you don’t see your question here.
+Please [contact us](https://tejaswigowda.github.io/blogtest/contact/) if you don’t see your question here.
