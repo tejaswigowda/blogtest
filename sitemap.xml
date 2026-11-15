@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>http://tejaswigowda.com/blogtest/</loc></url>
+  <url><loc>http://tejaswigowda.com/blogtest/about/</loc></url>
+  <url><loc>http://tejaswigowda.com/blogtest/contact/</loc></url>
+  <url><loc>http://tejaswigowda.com/blogtest/faq/</loc></url>
+  <url><loc>http://tejaswigowda.com/blogtest/gallery/</loc></url>
+  <url><loc>http://tejaswigowda.com/blogtest/home/</loc></url>
+  <url><loc>http://tejaswigowda.com/blogtest/products/</loc></url>
+  <url><loc>http://tejaswigowda.com/blogtest/request-a-quote/</loc></url>
+  <url><loc>http://tejaswigowda.com/blogtest/testimonials/</loc></url>
 </urlset>
