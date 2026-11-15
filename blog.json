@@ -1,7 +1,7 @@
 {
-  "title": "Blogtest",
-  "description": "testing",
-  "author": "tejaswigowda",
+  "title": "Swim Platform",
+  "description": "Custom boat swim platforms",
+  "author": "Swim Platform",
   "domain": "http://tejaswigowda.com/blogtest",
   "repo": "tejaswigowda/blogtest",
   "theme": "default",
@@ -15,122 +15,94 @@
   "stylesheet": "linked",
   "customize": {
     "colors": {
-      "accent": "#d1124f",
-      "text": "#0b1d51",
+      "accent": "#9fd5e6",
+      "text": "#25292c",
       "background": "#ffffff",
-      "muted": "#56608a",
+      "muted": "#68747b",
       "dark": {
-        "accent": "#d1124f",
-        "text": "#0b1d51",
-        "background": "#ffffff",
-        "muted": "#56608a"
+        "accent": "#82c7df",
+        "text": "#f2f6f8",
+        "background": "#151b1f",
+        "muted": "#b7c4c9"
       }
     },
     "font": "sans",
-    "headingFont": "serif",
+    "headingFont": "sans",
     "width": "1200px",
-    "topbar": {
-      "text": "Arizona's #1 Source for Local Deals & Savings! ♥",
-      "links": [
-        {
-          "label": "Facebook",
-          "url": "https://www.facebook.com/dealsinaz"
-        },
-        {
-          "label": "Instagram",
-          "url": "https://www.instagram.com/dealsinaz/"
-        },
-        {
-          "label": "Email",
-          "url": "http://visitor.r20.constantcontact.com/manage/optin?v=001CyJuaz4zra1zmFYOdYqf9JnIc5jn7Vr2o3mh4pfowSLKVZOumQjAgBYiOnCLqW1GVw4HplJ96yhS_3jzzBP5790xihD2F-ZMwThkSV4OZBZu3RYYm8-lvHV06mKV2Yp_PQijFTuZyqojMBnsrU1Sw0psWhBVH497"
-        },
-        {
-          "label": "As seen on 3TV",
-          "url": "https://www.azfamily.com/"
-        },
-        {
-          "label": "TikTok",
-          "url": "https://www.tiktok.com/@dealsinaz"
-        }
-      ]
-    },
+    "fontSize": "18px",
     "header": {
       "showTitle": false,
       "links": [
         {
-          "label": "Groceries",
-          "url": "https://tejaswigowda.github.io/dealsinaz/tags/groceries/"
+          "label": "Home",
+          "url": "https://tejaswigowda.com/blogtest/"
         },
         {
-          "label": "Restaurants",
-          "url": "https://tejaswigowda.github.io/dealsinaz/tags/restaurants/"
+          "label": "Products",
+          "url": "https://tejaswigowda.com/blogtest/products/"
         },
         {
-          "label": "Amazon",
-          "url": "https://tejaswigowda.github.io/dealsinaz/tags/amazon/"
+          "label": "Testimonials",
+          "url": "https://tejaswigowda.com/blogtest/testimonials/"
         },
         {
-          "label": "Family Fun",
-          "url": "https://tejaswigowda.github.io/dealsinaz/tags/happiness/"
+          "label": "Gallery",
+          "url": "https://tejaswigowda.com/blogtest/gallery/"
         },
         {
-          "label": "Beauty",
-          "url": "https://tejaswigowda.github.io/dealsinaz/tags/self-care/"
+          "label": "FAQ",
+          "url": "https://tejaswigowda.com/blogtest/faq/"
         },
         {
-          "label": "Holiday",
-          "url": "https://tejaswigowda.github.io/dealsinaz/tags/holiday/"
+          "label": "About",
+          "url": "https://tejaswigowda.com/blogtest/about/"
         },
         {
-          "label": "As Seen on 3TV",
-          "url": "https://tejaswigowda.github.io/dealsinaz/tags/as-seen-on-3tv/"
+          "label": "Get a quote",
+          "url": "https://tejaswigowda.com/blogtest/request-a-quote/"
         },
         {
-          "label": "Freebies",
-          "url": "https://tejaswigowda.github.io/dealsinaz/tags/free/"
+          "label": "Shop",
+          "url": "https://shop.swim-platform.com/"
         }
       ]
     },
     "footer": {
-      "text": "© 2026 Alicia's Deals in AZ. All rights reserved.",
+      "text": "© 2026 Swim Platform. All rights reserved.",
       "links": [
         {
-          "label": "About Alicia",
-          "url": "https://tejaswigowda.github.io/dealsinaz/about/"
+          "label": "Products",
+          "url": "https://tejaswigowda.com/blogtest/products/"
+        },
+        {
+          "label": "Gallery",
+          "url": "https://tejaswigowda.com/blogtest/gallery/"
+        },
+        {
+          "label": "Testimonials",
+          "url": "https://tejaswigowda.com/blogtest/testimonials/"
+        },
+        {
+          "label": "FAQ",
+          "url": "https://tejaswigowda.com/blogtest/faq/"
+        },
+        {
+          "label": "About",
+          "url": "https://tejaswigowda.com/blogtest/about/"
         },
         {
           "label": "Contact",
-          "url": "https://tejaswigowda.github.io/dealsinaz/contact/"
+          "url": "https://tejaswigowda.com/blogtest/contact/"
         },
         {
-          "label": "Media",
-          "url": "https://tejaswigowda.github.io/dealsinaz/media/"
-        },
-        {
-          "label": "Archive",
-          "url": "https://tejaswigowda.github.io/dealsinaz/archive/"
-        },
-        {
-          "label": "Facebook",
-          "url": "https://www.facebook.com/dealsinaz"
-        },
-        {
-          "label": "Instagram",
-          "url": "https://www.instagram.com/dealsinaz/"
-        },
-        {
-          "label": "TikTok",
-          "url": "https://www.tiktok.com/@dealsinaz"
-        },
-        {
-          "label": "Email",
-          "url": "http://visitor.r20.constantcontact.com/manage/optin?v=001CyJuaz4zra1zmFYOdYqf9JnIc5jn7Vr2o3mh4pfowSLKVZOumQjAgBYiOnCLqW1GVw4HplJ96yhS_3jzzBP5790xihD2F-ZMwThkSV4OZBZu3RYYm8-lvHV06mKV2Yp_PQijFTuZyqojMBnsrU1Sw0psWhBVH497"
+          "label": "Request a quote",
+          "url": "https://tejaswigowda.com/blogtest/request-a-quote/"
         }
       ]
     },
     "list": {
       "layout": "cards"
     },
-    "css": "/* An admin-dashboard look: a dark top bar, a white page with a large light title, bordered cards with a grey header bar, blue links and buttons,\n   small uppercase section labels. Written for this blog's own markup from the dashboard's layout and palette; no stylesheet or font was copied. */\n:root{color-scheme:light;--fg:#212529;--bg:#fff;--link:#0d6efd;--muted:#6c757d;--rule:#dee2e6;--code:#f8f9fa;--dark:#212529;--blue:#0d6efd;--bar:#f8f9fa;--font:system-ui,-apple-system,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;--heading-font:system-ui,-apple-system,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif}\nbody{background:#fff;color:var(--fg);font-family:var(--font);font-size:1rem;line-height:1.5;overflow-x:hidden}\n.wrap{max-width:1140px;padding:0 1.5rem 3rem}\na{color:var(--blue);text-decoration:underline}\na:hover{color:#0a58ca}\nheader.site{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:.5rem 1.5rem;margin:0 0 2rem;padding:0;min-height:56px;border:0;background:var(--dark);box-shadow:0 0 0 100vmax var(--dark);clip-path:inset(0 -100vmax)}\nheader.site a.brand{color:#fff;font-size:1.25rem;font-weight:500;text-decoration:none}\nheader.site a.brand::before{content:none}\nheader.site nav{display:flex;flex-wrap:wrap;align-items:center;gap:.1rem .25rem}\nheader.site nav a{margin:0;padding:.5rem .75rem;color:rgba(255,255,255,.6);font-size:.95rem;text-decoration:none;border-radius:6px}\nheader.site nav a::before{content:none}\nheader.site nav a:hover{color:#fff;background:rgba(255,255,255,.08)}\nh1,h2,h3{color:var(--fg);font-weight:500;line-height:1.2}\nh1::before,h2::before,h3::before,ul.posts h2::before{content:none}\nh1{font-size:clamp(2rem,5vw,2.5rem);margin:0 0 .5rem}\nh2{font-size:1.5rem}\nh3{font-size:1.2rem}\nbody>.wrap>h1+.meta{margin:0 0 1.5rem;padding:0 0 1rem;border-bottom:1px solid var(--rule);color:var(--muted);font-size:1rem;letter-spacing:0;text-transform:none;font-weight:400}\n.meta{color:var(--muted);font-size:.8rem}\n.meta .tag{display:inline-block;margin:0 0 0 .4rem;padding:.25em .6em;background:var(--blue);border-radius:.375rem;color:#fff;font-size:.72rem;font-weight:700;line-height:1;text-decoration:none}\n.meta .tag:hover{background:#0a58ca;color:#fff}\nul.posts{list-style:none;padding:0;margin:0 0 1.5rem;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.5rem}\nul.posts li{display:flex;flex-direction:column;margin:0;padding:0;background:#fff;border:1px solid var(--rule);border-radius:.375rem;overflow:hidden}\nul.posts h2{order:1;margin:0;padding:.75rem 1rem;background:var(--bar);border-bottom:1px solid var(--rule);font-size:1rem;font-weight:500;line-height:1.4}\nul.posts h2 a{color:var(--fg);text-decoration:none}\nul.posts h2 a:hover{color:var(--blue)}\nul.posts .thumb{order:2;display:block;aspect-ratio:16/9;overflow:hidden;background:var(--bar)}\nul.posts .thumb img{width:100%;height:100%;object-fit:cover;border:0;border-radius:0}\nul.posts p{order:3;flex:1;margin:0;padding:1rem;color:#495057;font-size:.95rem}\nul.posts .meta{order:4;margin:0;padding:.6rem 1rem;background:var(--bar);border-top:1px solid var(--rule);font-size:.8rem}\narticle{max-width:50rem;margin:0}\narticle h1{margin:0 0 .4rem;font-size:clamp(2rem,5vw,2.5rem)}\narticle .meta{margin-bottom:1.5rem;padding-bottom:1rem;border-bottom:1px solid var(--rule)}\narticle a{overflow-wrap:anywhere}\nimg{border:0;border-radius:.375rem}\n.cover img{border-radius:.375rem}\nblockquote{margin:1.25rem 0;padding:.5rem 1rem;border-left:.25rem solid var(--rule);color:var(--muted);font-size:1.15rem}\npre{background:var(--code);border:1px solid var(--rule);border-radius:.375rem}\ncode{background:var(--code);border-radius:.25rem;color:#d63384}\npre code{background:none;color:inherit}\ntable{border-collapse:collapse;width:100%}\nth{background:#fff;border-bottom:2px solid var(--fg);font-weight:700}\nth,td{border:1px solid var(--rule);padding:.5rem .6rem}\nhr{border:0;border-top:1px solid var(--rule)}\n.post-nav,.navigation.pagination .nav-links{display:flex;justify-content:space-between;gap:1rem;margin-top:1.5rem}\n.post-nav a,.navigation.pagination a{max-width:48%;padding:.375rem .85rem;background:var(--blue);border:1px solid var(--blue);border-radius:.375rem;color:#fff;font-size:1rem;text-decoration:none}\n.post-nav a:hover,.navigation.pagination a:hover{background:#0b5ed7;border-color:#0a58ca;color:#fff}\nform[role=search] input,form.subscribe input{padding:.375rem .75rem;border:1px solid #ced4da;border-radius:.375rem;background:#fff;color:var(--fg)}\nform[role=search] input:focus,form.subscribe input:focus{border-color:#86b7fe;box-shadow:0 0 0 .25rem rgba(13,110,253,.25);outline:0}\nform[role=search] button,form.subscribe button{padding:.375rem .85rem;border:1px solid var(--blue);border-radius:.375rem;background:var(--blue);color:#fff;cursor:pointer}\nfooter.site{margin:2rem 0 0;padding:1rem 0;border:0;background:var(--bar);box-shadow:0 0 0 100vmax var(--bar);clip-path:inset(0 -100vmax);color:var(--muted);font-size:.875rem}\nfooter.site a{color:var(--muted)}\n::selection{background:#b6d4fe;color:var(--fg)}\n@media (max-width:760px){ul.posts{grid-template-columns:1fr}.wrap{padding:0 1rem 2rem}}"
+    "css": ".wrap{max-width:80rem;padding:0 2rem 3rem}\nheader.site{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem 1.5rem;min-height:5.5rem;margin:0 0 2rem;padding:1rem 0;border-bottom:1px solid var(--rule);font:700 .9rem/1.25 system-ui,sans-serif}\nheader.site .brand{color:var(--fg);font-size:1.25rem;font-weight:800;letter-spacing:.01em;text-decoration:none}\nheader.site nav{display:flex;align-items:center;flex-wrap:wrap;gap:.4rem 1.1rem}\nheader.site nav a{margin:0;color:var(--fg);font-size:.85rem;font-weight:700;letter-spacing:.025em;text-decoration:none;text-transform:uppercase}\nheader.site nav a:hover{color:var(--link)}\nheader.site nav a:nth-last-child(2),header.site nav a:nth-last-child(3){padding:.55rem .85rem;border:2px solid var(--link);color:var(--link)}\nheader.site nav a:nth-last-child(2):hover,header.site nav a:nth-last-child(3):hover{background:var(--link);color:var(--bg)}\nheader.site nav a:last-child{color:var(--muted);font-size:.75rem;font-weight:500;text-transform:none}\nh1,h2,h3,h4{font-family:var(--heading-font)}\nh1{font-size:clamp(2rem,4.5vw,3.5rem);line-height:1.12}\nh2{font-size:clamp(1.5rem,2.6vw,2.1rem);line-height:1.2;margin:2.25rem 0 .8rem}\nh3{font-size:1.25rem;line-height:1.3}\nmain a{color:var(--link)}\nmain img{border-radius:0}\nfooter.site{margin-top:4rem;padding:1.5rem 0;border-top:1px solid var(--rule);font:.9rem/1.6 system-ui,sans-serif}\n@media(max-width:700px){.wrap{padding:0 1rem 2.5rem}header.site{align-items:flex-start;gap:1rem}header.site nav{gap:.45rem .8rem}header.site nav a{font-size:.75rem}header.site nav a:nth-last-child(2),header.site nav a:nth-last-child(3){padding:.4rem .6rem}}"
   }
 }
