@@ -205,10 +205,8 @@ article a{color:#21759b}
 [data-page=products]>p:has(img){margin:0}
 [data-page=products]>p:has(img)+p{text-align:center;font-size:14px}
 [data-page=products]>:nth-child(16){grid-column:1/-1;margin:110px 0 35px}
-[data-page=products]>h3,[data-page=products]>h3~p{grid-column:1/-1;width:100%;max-width:556px;margin:0 auto;text-align:center}
-[data-page=products]>h3{color:#3aaad4;margin-top:25px}
-[data-page=products]>h3:last-of-type{color:#4b4b4b;max-width:920px;margin-top:100px;text-align:left}
-[data-page=products]>p:last-child{max-width:920px;text-align:left}
+[data-page=products]>h3,[data-page=products]>p:last-child{grid-column:1/-1;width:100%;max-width:920px;margin:0 auto;text-align:left}
+[data-page=products]>h3{color:#4b4b4b;margin-top:100px}
 [data-page=gallery]{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
 [data-page=gallery]>h1,[data-page=gallery]>h2,[data-page=gallery]>h3,[data-page=gallery]>p:not(:has(img)){grid-column:1/-1}
 [data-page=gallery]>h3{text-align:center;font-size:29px;margin:60px 0 35px}
@@ -264,3 +262,8 @@ footer.site a[href*="/products/"]{grid-column:1;grid-row:2}footer.site a[href*="
 
 .webcli-slide-controls button[aria-label$="slideshow"]::after{display:inline-block;font:900 16px/1 "Font Awesome 6 Free";content:"" / ""}
 .webcli-slide-controls button[aria-label="Play slideshow"]::after{content:"" / ""}
+[data-page=products]>.order-step{grid-column:1/-1;width:100%;max-width:600px;box-sizing:border-box;margin:5px auto;padding:20px;border:2px solid rgba(142,142,142,.74);border-radius:5px;text-align:center}
+[data-page=products]>.order-step>h3{margin:0 0 8px;color:#3aaad4;font-size:24px;line-height:24px}
+[data-page=products]>.order-step>p{margin:0 0 8px;font-size:16px;line-height:1.6}
+[data-page=products]>.order-step :is(a,strong){color:#3aaad4}
+@media(max-width:700px){[data-page=products]>.order-step{margin:30px auto}}
