@@ -183,7 +183,7 @@ article a{color:#21759b}
 .webcli-slideshow .webcli-slide-controls button:nth-child(3){right:10px}
 .webcli-slideshow .webcli-slide-controls button:nth-child(1)::before{content:"‹" / "";font:36px/1 sans-serif}
 .webcli-slideshow .webcli-slide-controls button:nth-child(3)::before{content:"›" / "";font:36px/1 sans-serif}
-.webcli-slideshow .webcli-slide-controls button:nth-child(2){position:absolute;right:15px;bottom:20px;border:1px solid #fff;border-radius:3px;padding:4px 8px;font-size:12px}
+.webcli-slideshow .webcli-slide-controls button:nth-child(2){position:absolute;right:15px;bottom:20px;border:1px solid #fff;border-radius:3px;padding:4px 8px;font-size:0}
 .webcli-slideshow .webcli-slide-controls button[aria-current]::before{content:"";display:inline-block;width:10px;height:10px;border:2px solid #fff;border-radius:50%;vertical-align:middle}
 .webcli-slideshow .webcli-slide-controls button[aria-current=true]::before{background:#fff}
 [data-page=products]{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:20px;align-items:center}
@@ -261,3 +261,6 @@ header.site nav a[href$="feed.xml"]::after{content:"" / "";display:inline-blo
 header.site nav a[href$="feed.xml"]{font-size:0;display:inline-flex;align-items:center;justify-content:center;min-width:2.75rem;min-height:2.75rem}
 header.site nav a[href$="feed.xml"]::after{font-size:.9rem;margin-left:0}
 footer.site a[href*="/products/"]{grid-column:1;grid-row:2}footer.site a[href*="/gallery/"]{grid-column:1;grid-row:3}footer.site a[href*="/testimonials/"]{grid-column:2;grid-row:2}footer.site a[href*="/faq/"]{grid-column:2;grid-row:3}footer.site a[href*="/about/"]{grid-column:2;grid-row:4}footer.site a[href*="/contact/"]{grid-column:2;grid-row:5}footer.site a[href*="/request-a-quote/"]{grid-column:2;grid-row:6}footer.site a[href*="correctpage="]{grid-column:1/-1;grid-row:8;font-size:12px}
+
+.webcli-slide-controls button[aria-label$="slideshow"]::after{display:inline-block;font:900 16px/1 "Font Awesome 6 Free";content:"" / ""}
+.webcli-slide-controls button[aria-label="Play slideshow"]::after{content:"" / ""}
