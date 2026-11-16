@@ -14,6 +14,11 @@ status: published
 <p>tstimng</p>
 </aside>
 
+<blockquote class="wc-quote">
+<p>A nation can survive its fools, and even the ambitious. But it cannot survive treason from within. An enemy at the gates is less formidable, for he is known and carries his banner openly. But the traitor moves amongst those within the gate freely, his sly whispers rustling through all the alleys, heard in the very halls of government itself.</p>
+<cite>Cicero</cite>
+</blockquote>
+
 ![](video:videos/a-b-cubed-52s-1080p-60fps-2026-10-29-1@v1)
 
 test of lyceum
