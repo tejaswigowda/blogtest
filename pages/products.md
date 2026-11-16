@@ -41,21 +41,25 @@ Custom Lighting
 
 ## Order Process
 
-### Step 1
+<div class="order-step">
+<h3>Step 1</h3>
+<p>Upon submission of our <a href="../request-a-quote/"><strong>quote form</strong></a>, you will receive a response within 3-4 business days with more information to proceed with the order.</p>
+</div>
 
-Upon submission of our [**quote form**](https://tejaswigowda.github.io/blogtest/request-a-quote/), you will receive a response within 3-4 business days with more information to proceed with the order.
+<div class="order-step">
+<h3>Step 2</h3>
+<p>A deposit will be requested depending on the order contents and a template kit will be sent to the address provided in the quote request. See <strong>Template FAQs</strong> for information about the template kit.</p>
+</div>
 
-### Step 2
+<div class="order-step">
+<h3>Step 3</h3>
+<p>Once you have followed the template kit instructions and returned the kit to Swim-Platform, your order will begin construction.</p>
+</div>
 
-A deposit will be requested depending on the order contents and a template kit will be sent to the address provided in the quote request. See **Template FAQs** for information about the template kit.
-
-### Step 3
-
-Once you have followed the template kit instructions and returned the kit to Swim-Platform, your order will begin construction.
-
-### Step 4
-
-Once the order is completed and ready to be shipped, the remainder of the balance will be required for the order to ship.
+<div class="order-step">
+<h3>Step 4</h3>
+<p>Once the order is completed and ready to be shipped, the remainder of the balance will be required for the order to ship.</p>
+</div>
 
 ### **Notice**
 
