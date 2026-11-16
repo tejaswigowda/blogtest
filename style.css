@@ -160,3 +160,12 @@ h3{font-size:1.25rem;line-height:1.3}
 footer.site{margin-top:4rem;padding:1.5rem 0;border-top:1px solid var(--rule);font:.9rem/1.6 system-ui,sans-serif}
 @media(max-width:700px){.wrap{padding:0 1rem 2.5rem}header.site{align-items:flex-start;gap:1rem}header.site nav{gap:.45rem .8rem}header.site nav a{font-size:.75rem}header.site nav a:nth-last-child(2),header.site nav a:nth-last-child(3){padding:.4rem .6rem}section.home{display:block}section.home>p:nth-child(2) img,section.home>p:nth-child(9) img{height:auto;max-height:22rem}}
 section.home>.webcli-slideshow{grid-column:1/-1;grid-row:1;margin:0 0 1.5rem}
+section.home>h3{text-align:center}
+section.home>h3::before{display:block;font-family:"Font Awesome 6 Free";font-style:normal;font-weight:900;font-size:2.75rem;line-height:1;color:#35aacf;margin:0 0 .75rem}
+section.home>h3:nth-of-type(1)::before{content:"" / ""}
+section.home>h3:nth-of-type(2)::before{content:"" / ""}
+section.home>h3:nth-of-type(3)::before{content:"" / ""}
+section.home>p:nth-child(12),section.home>p:nth-child(14),section.home>p:nth-child(16){text-align:center;align-self:start}
+header.site nav a[href*="request-a-quote"]::after,header.site nav a[href^="https://shop.swim-platform.com"]::after{display:inline-block;font-family:"Font Awesome 6 Free";font-style:normal;font-weight:900;line-height:1;margin-left:.45em}
+header.site nav a[href*="request-a-quote"]::after{content:"" / "";font-weight:400}
+header.site nav a[href^="https://shop.swim-platform.com"]::after{content:"" / ""}
