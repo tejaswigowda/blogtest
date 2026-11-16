@@ -10,6 +10,10 @@ status: published
 <details><summary>test?</summary><p>test answer</p></details>
 </div>
 
+<aside class="wc-note note">
+<p>tstimng</p>
+</aside>
+
 ![](video:videos/a-b-cubed-52s-1080p-60fps-2026-10-29-1@v1)
 
 test of lyceum
