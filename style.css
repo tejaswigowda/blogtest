@@ -176,16 +176,16 @@ article a{color:#21759b}
 .webcli-slideshow .webcli-slide h2{color:#fff;font-size:clamp(34px,4vw,54px);line-height:1.1;text-align:left;margin:0 0 25px}
 .webcli-slideshow .webcli-slide p{max-width:610px;color:#fff;font-size:20px;line-height:1.5;margin:0 0 30px}
 .webcli-slideshow .webcli-slide a{border:2px solid #fff;border-radius:0;padding:13px 25px;font-size:16px;line-height:1.3}
-.webcli-slide-controls{position:absolute;inset:0;gap:8px;align-items:end;padding:0 70px 20px;pointer-events:none}
-.webcli-slide-controls button{pointer-events:auto;background:rgba(0,0,0,.25);border:0;border-radius:50%;min-width:44px;min-height:44px;padding:0;font-size:0}
-.webcli-slide-controls button:nth-child(1),.webcli-slide-controls button:nth-child(3){position:absolute;top:calc(50% - 22px);border-radius:0;background:rgba(0,0,0,.3)}
-.webcli-slide-controls button:nth-child(1){left:10px}
-.webcli-slide-controls button:nth-child(3){right:10px}
-.webcli-slide-controls button:nth-child(1)::before{content:"‹" / "";font:36px/1 sans-serif}
-.webcli-slide-controls button:nth-child(3)::before{content:"›" / "";font:36px/1 sans-serif}
-.webcli-slide-controls button:nth-child(2){position:absolute;right:15px;bottom:20px;border:1px solid #fff;border-radius:3px;padding:4px 8px;font-size:12px}
-.webcli-slide-controls button[aria-current]::before{content:"";display:inline-block;width:10px;height:10px;border:2px solid #fff;border-radius:50%;vertical-align:middle}
-.webcli-slide-controls button[aria-current=true]::before{background:#fff}
+.webcli-slideshow .webcli-slide-controls{position:absolute;inset:0;gap:8px;align-items:end;padding:0 70px 20px;pointer-events:none}
+.webcli-slideshow .webcli-slide-controls button{pointer-events:auto;background:rgba(0,0,0,.25);border:0;border-radius:50%;min-width:44px;min-height:44px;padding:0;font-size:0}
+.webcli-slideshow .webcli-slide-controls button:nth-child(1),.webcli-slideshow .webcli-slide-controls button:nth-child(3){position:absolute;top:calc(50% - 22px);border-radius:0;background:rgba(0,0,0,.3)}
+.webcli-slideshow .webcli-slide-controls button:nth-child(1){left:10px}
+.webcli-slideshow .webcli-slide-controls button:nth-child(3){right:10px}
+.webcli-slideshow .webcli-slide-controls button:nth-child(1)::before{content:"‹" / "";font:36px/1 sans-serif}
+.webcli-slideshow .webcli-slide-controls button:nth-child(3)::before{content:"›" / "";font:36px/1 sans-serif}
+.webcli-slideshow .webcli-slide-controls button:nth-child(2){position:absolute;right:15px;bottom:20px;border:1px solid #fff;border-radius:3px;padding:4px 8px;font-size:12px}
+.webcli-slideshow .webcli-slide-controls button[aria-current]::before{content:"";display:inline-block;width:10px;height:10px;border:2px solid #fff;border-radius:50%;vertical-align:middle}
+.webcli-slideshow .webcli-slide-controls button[aria-current=true]::before{background:#fff}
 [data-page=products]{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:20px;align-items:center}
 [data-page=products]>h1{grid-column:1/-1}
 [data-page=products]>:nth-child(2){grid-column:1/3;grid-row:2/4;margin:30px 0 80px}
@@ -247,7 +247,7 @@ footer.site a{color:#ababab;font-size:13px;text-decoration:none}
 footer.site a:hover{color:#9fd5e6}
 footer.site .foot-text{grid-column:1/-1;grid-row:7;font-size:12px;margin-top:35px;padding-top:25px;border-top:1px solid #303236}
 @media(max-width:1100px){header.site{flex-wrap:wrap;justify-content:center;padding:12px 20px}header.site nav{justify-content:center;gap:8px 16px}header.site nav a{font-size:14px}}
-@media(max-width:700px){header.site nav{gap:4px 12px}header.site nav a{font-size:12px;min-height:32px;display:inline-flex;align-items:center}header.site nav a[href*="request-a-quote"],header.site nav a[href^="https://shop.swim-platform.com"]{padding:5px 8px}.webcli-slideshow .webcli-slide{height:406px}.webcli-slideshow .webcli-slide>figcaption{padding:40px 50px}.webcli-slideshow .webcli-slide h2{font-size:34px}.webcli-slideshow .webcli-slide p{font-size:16px}.webcli-slide-controls button:nth-child(1){left:0}.webcli-slide-controls button:nth-child(3){right:0}:is(.home,[data-page=home]),[data-page=products],[data-page=about]{display:block}:is(.home,[data-page=home])>.webcli-slideshow{margin-bottom:65px}:is(.home,[data-page=home])>h2,:is(.home,[data-page=home],[data-page=about])>h3,:is(.home,[data-page=home])>p,[data-page=products]>h2,[data-page=products]>p,[data-page=about]>h2,[data-page=about]>p{margin:25px 0!important}:is(.home,[data-page=home])>h2,[data-page=about]>h2{margin-top:60px!important}:is(.home,[data-page=home],[data-page=about])>h3{margin-top:50px!important}[data-page=gallery]{grid-template-columns:repeat(2,minmax(0,1fr))}[data-page=testimonials]{column-count:1}[data-page=products]>h3~p{margin-bottom:50px!important}footer.site{margin-top:90px;gap:12px 20px}h2{font-size:30px}h3{font-size:24px}article>h1{font-size:22px;padding-top:25px;padding-bottom:25px}}
+@media(max-width:700px){header.site nav{gap:4px 12px}header.site nav a{font-size:12px;min-height:32px;display:inline-flex;align-items:center}header.site nav a[href*="request-a-quote"],header.site nav a[href^="https://shop.swim-platform.com"]{padding:5px 8px}.webcli-slideshow .webcli-slide{height:406px}.webcli-slideshow .webcli-slide>figcaption{padding:40px 50px}.webcli-slideshow .webcli-slide h2{font-size:34px}.webcli-slideshow .webcli-slide p{font-size:16px}.webcli-slideshow .webcli-slide-controls button:nth-child(1){left:0}.webcli-slideshow .webcli-slide-controls button:nth-child(3){right:0}:is(.home,[data-page=home]),[data-page=products],[data-page=about]{display:block}:is(.home,[data-page=home])>.webcli-slideshow{margin-bottom:65px}:is(.home,[data-page=home])>h2,:is(.home,[data-page=home],[data-page=about])>h3,:is(.home,[data-page=home])>p,[data-page=products]>h2,[data-page=products]>p,[data-page=about]>h2,[data-page=about]>p{margin:25px 0!important}:is(.home,[data-page=home])>h2,[data-page=about]>h2{margin-top:60px!important}:is(.home,[data-page=home],[data-page=about])>h3{margin-top:50px!important}[data-page=gallery]{grid-template-columns:repeat(2,minmax(0,1fr))}[data-page=testimonials]{column-count:1}[data-page=products]>h3~p{margin-bottom:50px!important}footer.site{margin-top:90px;gap:12px 20px}h2{font-size:30px}h3{font-size:24px}article>h1{font-size:22px;padding-top:25px;padding-bottom:25px}}
 :is(.home,[data-page=home],[data-page=about])>h3{text-align:center}
 :is(.home,[data-page=home],[data-page=about])>h3::before{display:block;font-family:"Font Awesome 6 Free";font-style:normal;font-weight:900;font-size:2.75rem;line-height:1;color:#35aacf;margin:0 0 .75rem}
 :is(.home,[data-page=home],[data-page=about])>h3:nth-of-type(1)::before{content:"" / ""}
