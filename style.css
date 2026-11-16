@@ -170,3 +170,5 @@ header.site nav a[href*="request-a-quote"]::after,header.site nav a[href^="https
 header.site nav a[href*="request-a-quote"]::after{content:"" / "";font-weight:400}
 header.site nav a[href^="https://shop.swim-platform.com"]::after{content:"" / ""}
 header.site nav a[href$="feed.xml"]::after{content:"" / "";display:inline-block;font-family:"Font Awesome 6 Free";font-style:normal;font-weight:900;line-height:1;margin-left:.45em}
+header.site nav a[href$="feed.xml"]{font-size:0;display:inline-flex;align-items:center;justify-content:center;min-width:2.75rem;min-height:2.75rem}
+header.site nav a[href$="feed.xml"]::after{font-size:.9rem;margin-left:0}
