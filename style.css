@@ -233,9 +233,11 @@ article a{color:#21759b}
 [data-page=faq] table{width:100%;border:0;background:#f7f7f7}
 [data-page=testimonials]{column-count:3;column-gap:40px}
 [data-page=testimonials]>h1,[data-page=testimonials]>h2,[data-page=testimonials]>h2+p{column-span:all}
-[data-page=testimonials]>h3{font-size:20px;line-height:1.4;border-top:1px solid #e8e8e8;padding-top:30px;break-after:avoid;break-inside:avoid}
-[data-page=testimonials]>p{font-size:15px;break-inside:avoid}
-[data-page=testimonials]>p:has(strong){color:#4b4b4b;margin-bottom:30px}
+.testimonial{break-inside:avoid;margin:0 0 24px;padding:24px;border:1px solid #e8e8e8;border-radius:8px;box-shadow:0 4px 14px rgba(0,0,0,.08)}
+.testimonial>h3{font-size:20px;line-height:1.4;margin:0 0 12px}
+[data-page=testimonials]>p,.testimonial>p{font-size:15px;break-inside:avoid}
+.testimonial>p{margin:0 0 12px}
+.testimonial>:last-child{margin-bottom:0}
 [data-page=contact],[data-page=request-a-quote]{min-height:650px;text-align:center}
 [data-page=contact]>p,[data-page=request-a-quote]>p{max-width:900px;margin:35px auto}
 footer.site{box-sizing:border-box;display:grid;grid-template-columns:1fr 1fr;gap:12px 50px;margin:140px 0 0;padding:85px max(30px,calc((100% - 1120px)/2)) 30px;border:0;background:radial-gradient(ellipse 75% 30px at 25% 0,#fff 99%,transparent 100%),linear-gradient(#35aacf 0 34px,#1a1c20 34px);color:#ababab;font-size:0;line-height:1.6}
