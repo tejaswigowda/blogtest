@@ -1,4 +1,6 @@
 {
+  "schemaVersion": 1,
+  "search": true,
   "title": "Swim Platform",
   "description": "Custom boat swim platforms",
   "author": "Swim Platform",
